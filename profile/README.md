@@ -1,7 +1,7 @@
 # Yummy FTP Mac – Secure FTP Client with Cloud Support for macOS
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/42905/l/yummy-ftp-lite-logo.png" alt="Yummy FTP Mac Logo" width="256" height="256">  
+<img src="https://cdnp1.stackassets.com/f44f531a48d8f4b9942702ca71a2e970efaa0e85/store/7c28597d97e59a180b34b4ddc742c2e717e4ad64f9ed583613ccda8512a2/ffe3e316a8159caffa1f93884d53e32afca40b22_main_hero_image.jpg" alt="Yummy FTP Mac Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
